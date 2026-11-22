@@ -1,5 +1,3 @@
-"""Webhook SOAR pédagogique : blocage OPNsense temporaire et audité."""
-
 import ipaddress
 import logging
 import os
